@@ -25,6 +25,18 @@ MojeTerminy.pl - internetowa wyszukiwarka terminów leczenia NFZ oparta na otwar
 Oferujemy intuicyjne wyszukiwanie najbliższych terminów do lekarzy dla ponad 400 rodzajów świadczeń. \
 Dzięki codziennym aktualizacjom, zapewniamy dostęp do informacji o ponad 145 000 kolejkach w całej Polsce.
 
+## Services
+- IT consulting
+- AdobeCommerce / Magento / Mage-OS support and integrations implementation
+- PHP performance tuning
+
+## Contact
+Email: OpenArtForge@gmail.com
+
+NIP: **6762658899**
+
+VAT-EU: **PL6762658899**
+
 <!--
 
 **Here are some ideas to get you started:**
